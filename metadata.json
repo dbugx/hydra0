@@ -1,0 +1,5 @@
+{
+  "name": "hydra0",
+  "description": "A powerful AI-driven development workspace. Clone projects, refactor code, and seamlessly prepare context for Google AI Studio using the Gemini API.",
+  "requestFramePermissions": []
+}
